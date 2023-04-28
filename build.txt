@@ -1,1 +1,1 @@
-361956036556.dkr.ecr.ap-south-1.amazonaws.com/flask-app:58
+361956036556.dkr.ecr.ap-south-1.amazonaws.com/flask-app:59
